@@ -66,3 +66,4 @@ Yurt dışında kıymeti büyük, Türkiye'de ise gittikçe bilinirliği ve öne
 
 İstatistik mesleği birçok bilim dalı ile iç içedir. Teknolojinin sürekli gelişmesiyle istatistik bilgisine ve istatistikçiye ihtiyaç duyulan alanlar: biyoloji, işletmecilik, demografi, ekonomi, mühendislik, sağlık, sigortacılık, pazarlama ve tüketim araştırması, tıp, yöneylem araştırması, psikoloji, sosyal bilimler, kalite kontrol, üretim kontrolü, AR-GE ve deney tasarımı.
 
+Sorularınız için Gmail/Instagram/Linkedin/... üzerinde @hcemaras kullanıcı adını aratarak ulaşabilirsiniz.
