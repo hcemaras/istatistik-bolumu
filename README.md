@@ -58,8 +58,8 @@ Yurt dışında kıymeti büyük, Türkiye'de ise gittikçe bilinirliği ve öne
  İstatistikçilerin iş imkanları bulabildikleri kamu kurumları:
 
 - Hastanelerin istatistik büroları,
-- Devlet İstatistik Enstitüsü (DİE), 
-- Devlet Planlama Teşkilatı (DPT), 
+- Türkiye İstatistik Kurumu (TÜİK), 
+- Strateji ve Bütçe Başkanlığı (SBB), 
 - Türkiye Bilimsel ve Teknik Araştırma Kurumu (TÜBİTAK), 
 - Türk Standartları Enstitüsü (TSE), 
 - Türkiye Kömür İşletmeleri (TKİ) 
