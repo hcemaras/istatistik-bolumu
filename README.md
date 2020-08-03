@@ -9,11 +9,11 @@ Bu tercih dönemindeki araştırmalarda ilk defa İstatistik bölümünü duyanl
 
 İstatistik bölümü üniversiteden üniversiteye içerik olarak değişiklik göstermektedir. Çoğu İstatistik bölümü İngilizce ağırlıklı(~%70) işleniyor. Üniversiteler bir süredir bölümlerde bulunan derslerin listesini ve bu derslerin haftalık işleyecekleri konuları web sitelerinde paylaşıyor. Bu sayfalar üzerinden ders içeriklerine bakıp fikir edinebileceğiniz gibi üniversitelerin bölümlerinin içeriklerini de kıyaslayabilirsiniz. Örnek olarak: http://debis.deu.edu.tr/ders-katalog/2020-2021/tr/bolum_1135_tr.html adresinde “Ders Yapısı ve Kredileri” başlığı altında dönemlik olarak dersleri görebilirsiniz.
 
-![donem_1](\donem_1.PNG)
+![donem_1](donem_1.PNG)
 
  “Ders Kodu” sütununda yer “İST 1015” gibi kodlara tıklayarak o dersin sayfasını ziyaret edebilirsiniz. Biraz uzun sürecek bir iş gibi görünebilir lakin bölüme başladığınızda bu araştırmaların avantajını göreceksinizdir.
 
-![ders_icerigi](\ders_icerigi.PNG)
+![ders_icerigi](ders_icerigi.PNG)
 
 ## İstatistik Bölümünü Tercih Etmeden Önce 
 
